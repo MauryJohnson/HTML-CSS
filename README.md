@@ -1,2 +1,2 @@
-# HTML-CSS-Javascript
+# HTML-CSS
 Test Website
